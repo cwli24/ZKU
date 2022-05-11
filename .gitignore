@@ -1,2 +1,9 @@
-
 *.pdf
+
+# Proof & generated files
+*.ptau
+*.sym
+*.zkey
+*.r1cs
+*_key.json
+*_js/
