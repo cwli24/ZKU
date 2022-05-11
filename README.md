@@ -9,7 +9,7 @@ This course is all about learning by doing. There are already a lot of online ma
 If you can finish the Background Assignment in time, you’re likely ready for this course.
 
 📝Week 1: Theory
-In this unusual week (starting Feb 28), we focus on the theoretical side of things. One can skip most of the difficult math, but some conceptual understanding of ZK is important. We’ll learn/refresh what are Merkle trees, and learn how to use circom for basic ZK problems. We’ll also learn on a very general level what are the different kinds of proofs: snark, stark, plonk, bulletproof, etc.
+In this unusual week, we focus on the theoretical side of things. One can skip most of the difficult math, but some conceptual understanding of ZK is important. We’ll learn/refresh what are Merkle trees, and learn how to use circom for basic ZK problems. We’ll also learn on a very general level what are the different kinds of proofs: snark, stark, plonk, bulletproof, etc.
 
 Study content (this list typically contains 2-3 videos + 1-2 short articles for your self-study. we try to keep it manageable, but one trick is to go read the assignment first and from there prioritize how much time you need to spend to get the assignment done):
 
